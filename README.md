@@ -1,4 +1,7 @@
-# api documentation for  [gulp-css-purge (v1.0.27)](https://github.com/ajkochanowicz/gulp-css-purge)  [![npm package](https://img.shields.io/npm/v/npmdoc-gulp-css-purge.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-gulp-css-purge) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-gulp-css-purge.svg)](https://travis-ci.org/npmdoc/node-npmdoc-gulp-css-purge)
+# npmdoc-gulp-css-purge
+
+#### basic api documentation for  [gulp-css-purge (v1.0.27)](https://github.com/ajkochanowicz/gulp-css-purge)  [![npm package](https://img.shields.io/npm/v/npmdoc-gulp-css-purge.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-gulp-css-purge) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-gulp-css-purge.svg)](https://travis-ci.org/npmdoc/node-npmdoc-gulp-css-purge)
+
 #### Purges duplicate CSS rules. Based on [css-purge](https://www.npmjs.org/package/css-purge)
 
 [![NPM](https://nodei.co/npm/gulp-css-purge.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/gulp-css-purge)
@@ -55,7 +58,8 @@
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "version": "1.0.27"
+    "version": "1.0.27",
+    "bin": {}
 }
 ```
 
